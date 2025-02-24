@@ -24,7 +24,7 @@ c＋＋語言	@cpplang
 數據類型	@datatype
 強類型	@stronglytyped
 弱類型	@weaklytyped
-語言大模型	@llm
+大語言模型	@llm
 開源	@opensource
 源代碼	@sourcecode
 編譯	@compile
