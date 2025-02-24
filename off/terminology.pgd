@@ -1,5 +1,6 @@
 ﻿ {id:"terminology",hidden:"true"}
 參數	@parameter
+變量	@variable
 模型	@model
 訓練	@training
 通用人工智能	@agi
@@ -16,6 +17,8 @@
 數據	@data
 數字化	@digitize
 c語言	@clang
+編程語言	@plang
+前端開發	@frontenddev
 c＋＋語言	@cpplang
 擴散模型	@diffusionmodel
 數據類型	@datatype
@@ -26,3 +29,48 @@ c＋＋語言	@cpplang
 源代碼	@sourcecode
 編譯	@compile
 直譯	@interpret
+量化	@quantization
+英偉達	@nvidia
+圖形處理器	@gpu
+中央處理器	@cpu
+指令集架構	@isa
+複雜指令集	@cisc
+精簡指令集	@risc
+擴散模型	@diffusionmodel
+監督學習
+監督學習
+強化學習
+分量	@component
+回歸分析	@regressionanalysis
+分類	@catagorize
+文件格式	@fileformat
+微調	@finetune
+張量	@tensor
+向量	@vector
+標量	@scalar
+矩陣	@matrix
+位元	@bit
+位元組	@byte
+秩	@rankoftensor
+推理	@inference
+輪次	@epoch
+批次	@batch
+數據集	@dataset
+過擬合	@overfitting
+梯度下降	@gradientdescent
+反向傳播	@backpropagation
+注意力	@attention
+嵌入	@embedding
+提示詞	@prompt
+正則化	@regularization
+卷積	@convolution
+卷積神經網路	@cnn
+循環神經網路	@rnn
+生成對抗網路	@gen
+丟棄	@dropout
+損失函數	@lossfunction
+張量流	@tensorflow
+安全張量	@safetensors
+應用程序接口	@api
+雲計算	@cloudcomputing
+對話模型	@chatmodel
