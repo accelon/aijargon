@@ -31,7 +31,11 @@ c＋＋語言	@cpplang
 直譯	@interpret
 量化	@quantization
 英偉達	@nvidia
+裸晶	@dice
 圖形處理器	@gpu
+獨顯	@discretegraphic
+核顯	@coregraphic
+顯卡	@graphiccard
 中央處理器	@cpu
 指令集架構	@isa
 複雜指令集	@cisc
@@ -75,3 +79,8 @@ c＋＋語言	@cpplang
 雲計算	@cloudcomputing
 對話模型	@chatmodel
 泛化	@generization
+線性代數	@linearalgrebra
+向量空間	@vectorspace
+線性映射	@linearmap
+浮點數	@floatingpoint
+基向量	@basis
