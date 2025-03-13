@@ -5,7 +5,7 @@
 訓練	@training
 通用人工智能	@agi
 神經元	@neuron
-神經網路	@neuralnetwork
+神經網絡	@neuralnetwork
 深度求索	@deepseek
 通義千問	@qwen
 阿里	@alibaba
@@ -68,8 +68,8 @@ c＋＋語言	@cpplang
 提示詞	@prompt
 正則化	@regularization
 卷積	@convolution
-卷積神經網路	@cnn
-循環神經網路	@rnn
+卷積神經網絡	@cnn
+循環神經網絡	@rnn
 生成對抗網路	@gen
 丟棄	@dropout
 損失函數	@lossfunction
